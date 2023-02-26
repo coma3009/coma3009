@@ -13,18 +13,18 @@
 </p>
 
 
-#### Framework
+#### 프레임워크
 <p>
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Image" />
 </p>
 
 
-#### Database
+#### 데이터베이스
 <p>
     <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Image" /> <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Image" /> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite Image" /> 
 </p>
 
-### Contact with
+### 디스코드
 <p>
     <a href="https://discord.com/users/866297659362246706"><img src="https://img.shields.io/badge/Coma_3009-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Image" /></a>
 </p>
