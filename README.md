@@ -9,7 +9,7 @@
 
 #### 프로그래밍 언어
 <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Image" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScriptImage" /> 
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Image" /> <img src="https://img.shields.io/badge/lua-323330?style=for-the-badge&logo=lua&logoColor=0F4C81" alt="LUA" />  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScriptImage" /> 
 </p>
 
 #### 웹 개발
