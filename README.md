@@ -20,6 +20,7 @@
 #### 프레임워크
 <p>
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Image" />
+    <img src="https://img.shields.io/badge/Pycord-000000?style=for-the-badge&logo=pycord&logoColor=white" alt="Flask Image" />
 </p>
 
 
